@@ -6,4 +6,4 @@
 
 ## 效果
 
-![image](http://github.com/DD152/Chicken-Price-Predicate/raw/master/images/prediction.png)
+![image](https://github.com/DD152/Chicken-Price-Predicate/raw/master/images/prediction.png)
